@@ -1,7 +1,6 @@
 # Introduction to Common Lisp
 
 ![Common Lisp Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lisp_logo.svg/1024px-Lisp_logo.svg.png)  
-*(Image: Common Lisp Logo)*
 
 ## What is Common Lisp?
 
