@@ -72,8 +72,9 @@ The REPL is an interactive environment that makes Common Lisp especially enjoyab
 
 If you're interested in contributing to the Common Lisp ecosystem, you can start by exploring various open-source Common Lisp projects. There are many libraries, frameworks, and implementations that welcome contributions from new developers.
 
-![Contributor Badge](https://img.shields.io/github/contributors/llvm/llvm-project?style=flat-square)  
-*(Image: Contributor Badge)*
+You can contribute to the [Common Lisp project here](https://github.com/Srujanrana07/Common-LISP).
+
+![Contributor Badge](https://img.shields.io/github/contributors/Srujanrana07/Common-LISP?style=flat-square)  
 
 ## Resources for Learning Common Lisp
 
