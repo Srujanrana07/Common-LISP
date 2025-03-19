@@ -74,6 +74,17 @@ If you're interested in contributing to the Common Lisp ecosystem, you can start
 You can contribute to the [Common Lisp project here](https://github.com/Srujanrana07/Common-LISP).
 
 ![Contributor Badge](https://img.shields.io/github/contributors/Srujanrana07/Common-LISP?style=flat-square)  
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/125748305?v=4" width="80" height="80" alt="Your Name">
+      <br>
+      <a href="https://github.com/Srujanrana07"><b>Srujan Rana</b></a>
+      <br>
+      🏆 Project Lead, Main Developer
+    </td>
+    </tr>
+</table>
 
 ## Resources for Learning Common Lisp
 
